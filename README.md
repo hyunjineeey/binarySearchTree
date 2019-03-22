@@ -4,7 +4,7 @@
 
 *March 11, 2019*
 
-## Instruction
+##  Binary Search Tree (Insert Floor, Delete Floor, Find Nearest Floor)
 
 Due to a breakthrough in paranormal detection technology, you have discovered that the 20-story hotel that you have recently purchased is full of ghosts.  They particularly seem to enjoy throwing ghost parties in the elevator lobbies on each floor, which is causing you to lose customers who freak out when they see the decorative furniture in those lobbies move around on its own.  You put in a call for some professional ghost busters, but they’re backlogged for months so you need a temporary solution.  The issue of preventing guests from encountering ghosts on their way down from their rooms has already been solved by installing a massive slide that extends from the top floor down to the street level; who would want to use the elevator over a giant slide?  The problem is that this has only increased the demand for elevator use on the way up.
 
