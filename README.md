@@ -12,4 +12,4 @@ Your strategy is the following: keep a record of which floors are not currently 
 
 ## Demo
 
-If you want to see quick demo for this website, watch this : https://youtu.be/bmhCdEjJTwo
+If you want to see quick demo for this project, watch this : https://youtu.be/bmhCdEjJTwo
