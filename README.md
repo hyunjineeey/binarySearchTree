@@ -1,4 +1,4 @@
-# Escape Ghost
+# Escape from Ghost
 
 *Created by Hyunjin*
 
