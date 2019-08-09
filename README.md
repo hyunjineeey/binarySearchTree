@@ -1,4 +1,4 @@
-# binarySearchTree
+# Escape Ghost
 
 *Created by Hyunjin*
 
